@@ -181,14 +181,19 @@ This is an open-source project. Contributions are welcome!
 - Keep functions small and focused
 - Avoid premature abstractions
 
-## License
-
-[Add your license information here]
 
 ## Support
 
 For issues, questions, or feature requests, please open an issue on GitHub:
 https://github.com/zjs81/meshcore-open/issues
+
+## Donate
+
+If you find MeshCore Open useful and would like to support development, you can donate Solana or other Solana tokens:
+
+**Solana Address:** `F15YanjZj96YTBtKJYgNa8RLQLCZkx5CEwogPWkqXeoQ`
+
+Your support helps maintain and improve this open-source project!
 
 ## Acknowledgments
 
